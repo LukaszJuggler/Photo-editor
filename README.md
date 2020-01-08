@@ -1,5 +1,6 @@
 # Image-editor
 Javascript photo editor that allows to upload and edit your own photos
+https://lukaszuczkiewicz.github.io/Image-editor/
 
 ## Features
 - change brightness, saturation, hue, sharpness and contrast
